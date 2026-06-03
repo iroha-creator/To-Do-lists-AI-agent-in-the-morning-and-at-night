@@ -16,8 +16,8 @@ def _run_session(session: str):
 
 
 def start_scheduler():
-    morning_hour = int(os.environ.get("MORNING_HOUR", 6))
-    morning_min = int(os.environ.get("MORNING_MINUTE", 30))
+    morning_hour = int(os.environ.get("MORNING_HOUR", 8))
+    morning_min = int(os.environ.get("MORNING_MINUTE", 0))
     evening_hour = int(os.environ.get("EVENING_HOUR", 21))
     evening_min = int(os.environ.get("EVENING_MINUTE", 0))
 
