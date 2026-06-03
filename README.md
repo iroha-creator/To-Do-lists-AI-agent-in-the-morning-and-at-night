@@ -20,8 +20,8 @@ An AI agent that creates and reviews to-do lists twice a day, taking user feedba
 
 | ドキュメント | 内容 |
 |---|---|
-| [SETUP.md](./SETUP.md) | 初回セットアップ手順 |
-| [SCHEDULER_SETUP.md](./SCHEDULER_SETUP.md) | Windowsタスクスケジューラー登録手順 |
+| [SETUP.md](./docs/SETUP.md) | 初回セットアップ手順 |
+| [SCHEDULER_SETUP.md](./docs/SCHEDULER_SETUP.md) | Windowsタスクスケジューラー登録手順 |
 
 ---
 
